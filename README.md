@@ -92,7 +92,7 @@ CGPA: 3.75 / 4.00
 
 **Explore my personal developer portfolio to learn more about me, my skills, experience, and projects.**
 
-🔗 **[Visit My Portfolio](YOUR_PORTFOLIO_LIVE_URL)**
+🔗 **[Visit My Portfolio](https://aysha-developer-portfolio.vercel.app/)**
 
 ---
 
