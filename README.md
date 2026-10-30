@@ -88,4 +88,12 @@ CGPA: 3.75 / 4.00
 
 ---
 
+## 🌐 Live Portfolio
+
+**Explore my personal developer portfolio to learn more about me, my skills, experience, and projects.**
+
+🔗 **[Visit My Portfolio](YOUR_PORTFOLIO_LIVE_URL)**
+
+---
+
 ⭐ Thank you for visiting my portfolio repository! Feel free to explore my projects and connect with me.
