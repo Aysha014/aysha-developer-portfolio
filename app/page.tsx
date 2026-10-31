@@ -22,6 +22,7 @@ import {
 import Navbar from "@/components/Navbar";
 import Projects from "@/components/Projects";
 import { useContactModal } from "@/components/ContactModalContext";
+import { getAssetPath } from "@/lib/utils";
 
 const skillGroups = [
   {
@@ -102,7 +103,7 @@ export default function Home() {
                   Let&apos;s talk <Mail size={16} />
                 </button>
                 <a
-                  href="/resume.pdf"
+                  href={getAssetPath("/resume.pdf")}
                   download="Aisha_Akter_Resume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -152,7 +153,7 @@ export default function Home() {
                 <div className="flex aspect-[4/4.5] flex-col items-center justify-center rounded-[26px] bg-gradient-to-br from-[#eeeaff] via-[#f8f7ff] to-[#fcecf4]">
                   <div className="relative flex h-36 w-36 items-center justify-center overflow-hidden rounded-full border-8 border-white shadow-lg">
                     <Image
-                      src="/profile.jpg"
+                      src={getAssetPath("/profile.jpg")}
                       alt="Aysha Akter"
                       width={144}
                       height={144}
